@@ -1,4 +1,4 @@
-# aion-fastvm
+# aion-fastvm-docker
 Docker container for Aion FastVM / Solidity compiler.
 
 ##Usage:
