@@ -1,1 +1,1 @@
-docker run --rm -v "$(pwd):/root/app/src" satran004/aion-fastvm:0.3.1 solc --abi --bin 
+docker run --rm -v "$(pwd):/project" satran004/aion-fastvm:0.3.2 solc --abi --bin 
