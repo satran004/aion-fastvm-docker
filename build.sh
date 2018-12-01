@@ -1,1 +1,1 @@
-docker build -t satran004/aion-fastvm:0.3.2 .
+docker build -t satran004/aion-fastvm:0.3.2.1 .
